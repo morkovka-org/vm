@@ -1,0 +1,20 @@
+{
+  "name": "morkovka-vm",
+  "version": "1.0.0",
+  "description": "x86 virtualization in your browser, recompiling x86 to WASM on the fly. We support shared clipboard! Yo, how cool. Thanks copy.sh for the original project v86.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vm"
+  ],
+  "author": "Leo Grachov & copy.sh",
+  "license": "BSD-2-Clause"
+}
