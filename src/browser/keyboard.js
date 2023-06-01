@@ -1,5 +1,7 @@
 "use strict";
 
+// navigator.clipboard.readText()
+
 /** @const */
 var SHIFT_SCAN_CODE = 0x2A;
 
